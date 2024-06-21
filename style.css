@@ -28,6 +28,8 @@ nav a{
     color: black;
 }
 
+
+
 nav a:hover{
     background-color: #f0f0f0;
 }
@@ -42,8 +44,9 @@ nav li:first-child{
     right: 0;
     height: 100vh;
     width: 250px;
+    
     z-index: 999;
-    background-color: #ffffff3d;
+    background-color: #0b72363d;
     backdrop-filter: blur(10px);
     box-shadow: -10px 0 10px rgba(0,0,0,0.1);
     display: none;
