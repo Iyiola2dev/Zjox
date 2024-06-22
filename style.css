@@ -62,3 +62,8 @@ nav li:first-child{
 .sidebar a{
     width: 100%;
 }
+
+.projectDiv h4{
+    border-bottom: 1px solid #565656;
+}
+
